@@ -1,0 +1,1 @@
+# snaptrend-bot
